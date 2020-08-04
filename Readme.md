@@ -21,5 +21,5 @@
 
 ## 我的Github Stats
 
-![邬晓's github stats](https://github-readme-stats.vercel.app/api?username=weisuoke&show_icons=true)
+![邬晓's github stats](https://github-readme-stats.vercel.app/api?username=weisuoke&show_icons=true&&count_private=true)
 
