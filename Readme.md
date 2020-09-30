@@ -1,13 +1,22 @@
-### Hi, 我是邬晓 - [weisuoke](http://www.weisuoke.com)
+### Hi, I'm wuxiao
 
 ## About me
 
 - 喜欢编程，喜欢开源
+- 我的网站：wuxiao.io（开发设计中...） 由于域名无法备案，使用 Gatsby 搭建，部署到 Github pages
+- 我的博客：blog.weisuoke.com (开发设计中...) 基于Koa + Vue3 + React + Mysql搭建
+- 微信公众号：规划中
+- 微信小程序：规划中
+- Android App：规划中
+- iOS App: 规划中
     
 ## Knowledge Graph
 
   - 通用
+    - [awesome-fe](http://awesome-fe.weisuoke.com/)
     - 独立开发者 Guidebook
+    - Anki Guidebook
+    - 极简主义 Guidebook
   
   - 前端
     - JavaScript Guidebook
@@ -20,8 +29,13 @@
     - 算法与数据结构 Guidebook
     - Node Guidebook
       - Koa Guidebook
-    - Flutter Guidebook
+    - 跨平台 Guidebook： RN | 小程序 | Flutter
     - GraphQL Guidebook
+    - 图形学 Guidebook
+        - WebGL Guidebook
+        - Threejs Guidebook
+        - D3 Guidebook
+    - Functional Programming Guidebook
     
   - Java
     - Java Guidebook
@@ -31,6 +45,9 @@
     
   - Python
     - Python Guidebook
+    
+  - Android
+    - Kotlin Guidebook
     
   - 未分类
     - MySQL Guidebook
