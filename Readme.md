@@ -14,7 +14,7 @@
     - CSS Guidebook
     - React Guidebook
     - Vue Guidebook
-    - FE interview Guidebook
+    - [FE interview Guidebook](http://interview.wuxiao.io/): 前端面试那些事儿 JavaScript | CSS | React | Vue | Webpack | Node | 设计模式 | 算法 | 软技能
     - 微前端 Guidebook
     - Serverless Guidebook
     - 算法与数据结构 Guidebook
