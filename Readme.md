@@ -50,7 +50,7 @@
     - Kotlin Guidebook
     
   - 未分类
-    - MySQL Guidebook
+    - [MySQL Guidebook](http://mysql.wuxiao.io): 学习 & 编写...
     - Docker Guidebook
 
 ![邬晓's github stats](https://github-readme-stats.vercel.app/api?username=weisuoke&show_icons=true&&count_private=true)
