@@ -9,16 +9,14 @@
 - 微信小程序：规划中
 - Android App：规划中
 - iOS App: 规划中
-    
-## Knowledge Graph
 
-  - 通用
-    - [awesome-fe](http://awesome-fe.weisuoke.com/)
-    - 独立开发者 Guidebook
-    - Anki Guidebook
-    - 极简主义 Guidebook
-  
+## Dream to be
+- 架构师
+- 独立开发者
+    
+## Knowledge Graph  
   - 前端
+    - [awesome-fe](http://awesome-fe.weisuoke.com/)    
     - JavaScript Guidebook
     - CSS Guidebook
     - [React Guidebook](http://react.wuxiao.io): 编写中...
@@ -37,25 +35,6 @@
         - D3 Guidebook
     - Functional Programming Guidebook
     
-  - Java
-    - Java Guidebook
-  
-  - Go
-    - Go Guidebook
-    
-  - Python
-    - Python Guidebook
-    
-  - 数据库
-    - [MySQL Guidebook](http://mysql.wuxiao.io): 学习 & 编写...
-    - Redis Guidebook
-    - MongoDB Guidebook
-    
-  - Android
-    - Kotlin Guidebook
-    
-  - 未分类
-    - Docker Guidebook
 
 ![邬晓's github stats](https://github-readme-stats.vercel.app/api?username=weisuoke&show_icons=true&&count_private=true)
 
