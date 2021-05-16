@@ -3,8 +3,8 @@
 ## About me
 
 - 喜欢编程，喜欢开源
-- 我的网站：wuxiao.io（开发设计中...） 由于域名无法备案，使用 Gatsby 搭建，部署到 Github pages
-- 我的博客：blog.weisuoke.com (开发设计中...) 基于Koa + Vue3 + React + Mysql搭建
+- 我的网站：wuxiao.io
+- 我的博客：blog.weisuoke.com
 - 微信公众号：规划中
 - 微信小程序：规划中
 - Android App：规划中
